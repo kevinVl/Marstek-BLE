@@ -1,19 +1,5 @@
 # Marstek BLE Integration for Home Assistant
 
-> **⚠️ BETA/EXPERIMENTAL RELEASE**
-> This integration is currently in beta and should be considered experimental. While it is functional, you may encounter bugs or unexpected behavior. Please report any issues you find.
-
-Home Assistant integration for Marstek Venus E energy storage systems via Bluetooth Low Energy (BLE).
-
-## Features
-
-- **Multi-device support**: Add multiple Marstek batteries, each as a separate device
-- **Real-time monitoring**: Battery voltage, current, SOC, SOH, temperature, cell voltages
-- **Power control**: Output control, EPS mode, power limits, adaptive mode
-- **Energy tracking**: Integration with Home Assistant Energy Dashboard
-- **BLE Proxy support**: Extend range using ESPHome BLE proxies. One proxy can connect multiple batteries.
-- **Configurable polling**: Adjust fast and medium intervals to balance responsiveness and BLE traffic
-- **Local operation**: No cloud connectivity required
 
 ## Installation
 
@@ -21,7 +7,7 @@ Home Assistant integration for Marstek Venus E energy storage systems via Blueto
 
 1. Click this button:
 
-[![Open this repository in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=kevinVM&repository=marstek-ble&category=integration)
+[![Open this repository in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=kevinVl&repository=marstek-ble&category=integration)
 
 Or:
 
